@@ -1,0 +1,10 @@
+.\objects\extint.o: lib\extint\extint.c
+.\objects\extint.o: .\lib\system\system.h
+.\objects\extint.o: .\lib\system\LPC214x.H
+.\objects\extint.o: .\lib\irq\irq.h
+.\objects\extint.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\extint.o: .\lib\delay\delay.h
+.\objects\extint.o: .\lib\gpio\gpio.h
+.\objects\extint.o: .\lib\system\target.h
+.\objects\extint.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\extint.o: lib\extint\extint.h
