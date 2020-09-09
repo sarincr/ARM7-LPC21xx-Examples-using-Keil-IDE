@@ -1,0 +1,10 @@
+.\Objects\adc.o: lib\adc\adc.c
+.\Objects\adc.o: .\lib\system\LPC214X.H
+.\Objects\adc.o: .\lib\system\system.h
+.\Objects\adc.o: .\lib\irq\irq.h
+.\Objects\adc.o: C:\Keil_v5\ARM\RV31\INC\stdint.h
+.\Objects\adc.o: .\lib\delay\delay.h
+.\Objects\adc.o: .\lib\gpio\gpio.h
+.\Objects\adc.o: .\lib\system\target.h
+.\Objects\adc.o: C:\Keil_v5\ARM\RV31\INC\stdio.h
+.\Objects\adc.o: lib\adc\adc.h

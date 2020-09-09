@@ -1,0 +1,10 @@
+.\objects\demo.o: demo.c
+.\objects\demo.o: .\lib\system\system.h
+.\objects\demo.o: .\lib\system\LPC214x.H
+.\objects\demo.o: .\lib\irq\irq.h
+.\objects\demo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\demo.o: .\lib\delay\delay.h
+.\objects\demo.o: .\lib\gpio\gpio.h
+.\objects\demo.o: .\lib\system\target.h
+.\objects\demo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\demo.o: demo.h

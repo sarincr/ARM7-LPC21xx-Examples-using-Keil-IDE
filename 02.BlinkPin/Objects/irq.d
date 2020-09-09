@@ -1,0 +1,9 @@
+.\Objects\irq.o: lib\irq\irq.c
+.\Objects\irq.o: .\lib\system\LPC214x.h
+.\Objects\irq.o: .\lib\system\system.h
+.\Objects\irq.o: .\lib\irq\irq.h
+.\Objects\irq.o: C:\Keil_v5\ARM\RV31\INC\stdint.h
+.\Objects\irq.o: .\lib\delay\delay.h
+.\Objects\irq.o: .\lib\gpio\gpio.h
+.\Objects\irq.o: .\lib\system\target.h
+.\Objects\irq.o: C:\Keil_v5\ARM\RV31\INC\stdio.h
