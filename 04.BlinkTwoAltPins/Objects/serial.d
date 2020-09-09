@@ -1,0 +1,11 @@
+.\Objects\serial.o: lib\serial\serial.c
+.\Objects\serial.o: .\lib\system\LPC214x.h
+.\Objects\serial.o: .\lib\system\system.h
+.\Objects\serial.o: .\lib\irq\irq.h
+.\Objects\serial.o: C:\Keil_v5\ARM\RV31\INC\stdint.h
+.\Objects\serial.o: .\lib\delay\delay.h
+.\Objects\serial.o: .\lib\gpio\gpio.h
+.\Objects\serial.o: .\lib\system\target.h
+.\Objects\serial.o: C:\Keil_v5\ARM\RV31\INC\stdio.h
+.\Objects\serial.o: lib\serial\serial.h
+.\Objects\serial.o: .\lib\nstring\Nstring.h

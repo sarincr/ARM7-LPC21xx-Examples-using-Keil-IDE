@@ -1,0 +1,4 @@
+--device DARMP ".\objects\startup.o" ".\objects\adc.o" ".\objects\delay.o" ".\objects\gpio.o" ".\objects\irq.o" ".\objects\nstring.o" ".\objects\serial.o" ".\objects\i2c.o" ".\objects\spi.o" ".\objects\rtc.o" ".\objects\extint.o" ".\objects\main.o" --nodebug --strict --scatter ".\Objects\LPC2148Master.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Listings\LPC2148Master.map" -o ".\Objects\LPC2148Master.axf"
