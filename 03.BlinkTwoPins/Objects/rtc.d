@@ -1,0 +1,10 @@
+.\Objects\rtc.o: lib\rtc\rtc.c
+.\Objects\rtc.o: .\lib\system\system.h
+.\Objects\rtc.o: .\lib\system\LPC214x.H
+.\Objects\rtc.o: .\lib\irq\irq.h
+.\Objects\rtc.o: C:\Keil_v5\ARM\RV31\INC\stdint.h
+.\Objects\rtc.o: .\lib\delay\delay.h
+.\Objects\rtc.o: .\lib\gpio\gpio.h
+.\Objects\rtc.o: .\lib\system\target.h
+.\Objects\rtc.o: C:\Keil_v5\ARM\RV31\INC\stdio.h
+.\Objects\rtc.o: lib\rtc\rtc.h
