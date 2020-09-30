@@ -1,0 +1,19 @@
+*** Creating Trace Output File 'ORGate.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"main.o"'
+### ADS-LD Command completed:
+--device DARMP "startup.o" "main.o" --library_type=microlib --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x40000000 --strict --autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\ORGate.map" -o "ORGate.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'ORGate.axf'
+### ADS-LD Command File: 'ORGate.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'ORGate.lnp', Handle=0x00000AE8
+### Writing '.lnp' file
+### ADS-LD Command file 'ORGate.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
